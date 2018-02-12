@@ -1,4 +1,3 @@
-exmr.sol
 pragma solidity ^0.4.17;
 
 /* EXMR 'eXMR eMonero is tokenized (ERC20) Monero on the Ethereum blockchain' contract Version 2.0
