@@ -1,4 +1,4 @@
-all    :; dapp build
-clean  :; dapp clean
-test   :; dapp test
-deploy :; dapp create ProtocolDemoTest
+all    :; dapp Build
+clean  :; dapp Clean
+test   :; dapp Test
+deploy :; dapp Create ProtocolDemoTest
